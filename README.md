@@ -52,8 +52,9 @@ Follow these steps to set up the project locally:
      npm run dev
      open your browser and visit
        http://localhost:3000
- ##  🌐 Live Demo
-Check out the deployed version on Vercel:
+## 🚀 Deployment
+
+The project is live on [Vercel](https://task-psi-livid.vercel.app/login) 🌐. 
 
 Task Management Live App
 
@@ -64,10 +65,12 @@ Data Handling
 Data is fetched and managed using MockAPI, ensuring a smooth simulation of backend interactions.
 TypeScript Integration
 All components and utilities are written in TypeScript to provide robust type safety.
-##🎨 Screenshots
+
+🎨 Screenshots
 Admin Dashboard
 User Task Management
-##🤝 Contributing
+
+🤝 Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repository.
