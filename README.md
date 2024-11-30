@@ -52,22 +52,22 @@ Follow these steps to set up the project locally:
      npm run dev
      open your browser and visit
        http://localhost:3000
-   🌐 Live Demo
+ ##  🌐 Live Demo
 Check out the deployed version on Vercel:
 
 Task Management Live App
 
-📚 How It Works
+## 📚 How It Works
 Routing
 The project uses the Next.js App Router for efficient and dynamic page navigation.
 Data Handling
 Data is fetched and managed using MockAPI, ensuring a smooth simulation of backend interactions.
 TypeScript Integration
 All components and utilities are written in TypeScript to provide robust type safety.
-🎨 Screenshots
+##🎨 Screenshots
 Admin Dashboard
 User Task Management
-🤝 Contributing
+##🤝 Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repository.
